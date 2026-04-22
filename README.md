@@ -26,7 +26,7 @@ A lightweight command-line banking app written in Python. No libraries, no setup
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/python-bank-cli.git
+git clone https://github.com/MrZenovaDev/python-bank-cli.git
 cd python-bank-cli
 ```
 
